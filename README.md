@@ -4,4 +4,5 @@
 
 ### Exemplo
 
+<img src="/img/example.png" alt="example"/>
 
