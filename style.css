@@ -31,9 +31,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Ajuste de velocidade background */
 @keyframes slideright {
     from{
-        background-position: 70000%;
+        background-position: 15000%;
     }
     to{
         background-position: 0;
