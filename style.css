@@ -34,7 +34,7 @@ body{
 /* Ajuste de velocidade background */
 @keyframes slideright {
     from{
-        background-position: 15000%;
+        background-position: 10000%;
     }
     to{
         background-position: 0;
